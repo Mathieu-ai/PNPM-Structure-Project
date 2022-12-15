@@ -1,7 +1,7 @@
 
 # Structure your project
 
-A brief project's Structure concept for your apps itroduced by [@Grafikart](https://github.com/Grafikart)
+A brief project's Structure concept for your apps introduced by [@Grafikart](https://github.com/Grafikart)
 
  🚩I only wrote what he did and all credit is due to his brain, I just thought he has amazing concepts and wanted to share 👌
 
